@@ -1,2 +1,4 @@
-# TP1-Test-GITHUP-Desktop
-Repo for testing GITHUP-Desktop
+
+# TP1-Test-GIT-BASH
+Repo for testing GIT_BATSH
+
